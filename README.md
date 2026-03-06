@@ -12,13 +12,13 @@ Technologies:
 
 Projects:
 - Design Dock – Full Stack E-commerce Platform
-# [Design-dock](design-dock)
+[Design-dock](design-dock)
 - Django Blog – Content Management App
 - Meta Mood – Mood Tracking Data App
 - Guess the Pokémon – JavaScript Game
 
 Currently looking for a Junior Software Developer role.
-# 🐳 Design Dock
+# Design Dock
 Design Dock is a full-stack e-commerce platform built with Django that allows users to browse, purchase, and manage premium digital and physical design products. The application provides secure payments, user authentication, admin product management, and a responsive user experience across devices.
 
 Live site: https://design-dock-9a1c5bd13893.herokuapp.com

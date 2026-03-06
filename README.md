@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Chaz 👋
 
-<!--
-**chazeldred55-code/chazeldred55-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Developer
 
-Here are some ideas to get you started:
+Technologies:
+- Python
+- Django
+- JavaScript
+- HTML
+- CSS
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- Design Dock – Full Stack E-commerce Platform
+- Django Blog – Content Management App
+- Meta Mood – Mood Tracking Data App
+- Guess the Pokémon – JavaScript Game
+
+Currently looking for a Junior Software Developer role.

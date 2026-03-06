@@ -12,7 +12,6 @@ Technologies:
 
 Projects:
 - Design Dock – Full Stack E-commerce Platform
-[Design-dock](design-dock)
 - Django Blog – Content Management App
 - Meta Mood – Mood Tracking Data App
 - Guess the Pokémon – JavaScript Game

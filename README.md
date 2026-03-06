@@ -1,50 +1,95 @@
-# Hi, I'm Chaz 👋
+# Hi, I'm Chaz Eldred 👋
 
-Junior Full Stack Developer
+### Junior Full Stack Developer
 
-Technologies:
+I am a Junior Full Stack Developer currently completing a **Level 5 Diploma in Full Stack Software Development with Code Institute**. I enjoy building web applications and learning new technologies while solving real-world problems through code.
+
+I am actively seeking an **entry-level / junior software developer role** where I can contribute to a development team and continue growing my technical skills.
+
+---
+
+## 🧑‍💻 Technologies
+
+**Languages**
+
 - Python
-- Django
 - JavaScript
-- HTML
-- CSS
+- HTML5
+- CSS3
+
+**Frameworks & Libraries**
+
+- Django
+- Bootstrap
+
+**Databases**
+
 - PostgreSQL
+- SQLite
 
-Projects:
-- Design Dock – Full Stack E-commerce Platform
-- Django Blog – Content Management App
-- Meta Mood – Mood Tracking Data App
-- Guess the Pokémon – JavaScript Game
+**Tools**
 
-Currently looking for a Junior Software Developer role.
-# Design Dock
-Design Dock is a full-stack e-commerce platform built with Django that allows users to browse, purchase, and manage premium digital and physical design products. The application provides secure payments, user authentication, admin product management, and a responsive user experience across devices.
+- Git
+- GitHub
+- VS Code
+- Heroku
+- AWS S3
 
-Live site: https://design-dock-9a1c5bd13893.herokuapp.com
-Repository: https://github.com/chazeldred55-code/design-dock
+---
 
-# Screenshots
-Preview of my work 
+## 🚀 Featured Projects
 
-## Product Listing Page
-<img width="1885" height="856" alt="image" src="https://github.com/user-attachments/assets/9ada6529-1be6-4b55-9bf0-1b68709ae2ac" />
-## Product Detail Page
-<img width="1917" height="872" alt="image" src="https://github.com/user-attachments/assets/e9722ab3-1524-43bb-bf0e-5c013625e52f" />
-## Bag Page
-<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/017b9ed5-1a12-40c8-929a-0fbfedc3e299" />
-## Checkout Page
-<img width="1897" height="866" alt="image" src="https://github.com/user-attachments/assets/d8161745-64b3-4d5f-b24a-94ab2b8ee855" />
-## Admin Page
-<img width="1887" height="855" alt="image" src="https://github.com/user-attachments/assets/c94db4a8-7440-4561-922b-94f30b7d0b8c" />
+### Design Dock – Full Stack E-Commerce Platform
+A full stack Django e-commerce application allowing users to browse products, manage accounts, and securely purchase items online.
 
-# UX Design
+**Key Features**
 
-## 992 px or above
-<img width="1897" height="867" alt="image" src="https://github.com/user-attachments/assets/885d1021-01c1-499f-af56-8cac5ede0413" />
+- User authentication and profiles
+- Shopping cart and checkout system
+- Stripe payment integration
+- Product management via Django admin
+- Cloud media storage using AWS S3
 
-## 768 - 991 px 
-<img width="473" height="637" alt="image" src="https://github.com/user-attachments/assets/a4b3cb23-1f02-48d4-a4c8-710466b0f725" />
+🔗 Repository  
+https://github.com/chazeldred55-code/design-dock
 
-## Mobile View (767px and below) 
-<img width="428" height="756" alt="image" src="https://github.com/user-attachments/assets/5b3ca2db-27d0-4b74-bcc5-caeb5be0ab0a" />
+---
 
+### Django Blog – Content Management Application
+A Django-powered blog platform allowing users to create, edit, and manage blog posts through a database-backed system.
+
+**Key Features**
+
+- User authentication
+- CRUD functionality for blog posts
+- Admin content management
+- Responsive frontend layout
+
+🔗 Repository  
+https://github.com/chazeldred55-code/thedjangoblog
+
+---
+
+### Meta Mood – Behaviour & Mood Tracking App
+A collaborative hackathon project designed to track mood patterns and identify behavioural triggers using structured user input.
+
+🔗 Repository  
+https://github.com/Coolafdood/meta-mood
+
+---
+
+### Guess the Pokémon – JavaScript Game
+An interactive browser game where users guess Pokémon using JavaScript logic and dynamic gameplay.
+
+🔗 Repository  
+https://github.com/chazeldred55-code/guess-the-pokemon
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/chaz-eldred-20b0a4262/
+
+GitHub  
+https://github.com/chazeldred55-code
